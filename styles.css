@@ -1,0 +1,51 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+    text-align: center;
+}
+
+body {
+    margin: 0px;
+    background-color: rgb(218, 207, 207);
+}
+
+.button {
+    color: antiquewhite;
+    background-color: aquamarine;
+}
+
+
+
+
+#navbar ul {
+
+background-color: gray;
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+   
+    
+
+}
+
+#navbar a{
+    color:white;
+    text-decoration: none;
+    padding: 15px;
+    display: block;
+    text-align: center;
+}
+
+#navbar a:hover{
+    background-color: rgb(146, 145, 145);
+
+}
+
+#navbar li {
+    float: left;
+}
+
+
+
+
